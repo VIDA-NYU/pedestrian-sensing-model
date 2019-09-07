@@ -1,5 +1,5 @@
-# carmera-pedestrians
-Generation of a pedestrian density map using ground-level images.
+# Pedestrian sensing model
+Pedestrian detection and heatmap generation using ground-level images. Simulation of the sensing process.
  
 The code is divided into three parts: 
  1. pedestrian detection
