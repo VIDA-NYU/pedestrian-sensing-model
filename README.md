@@ -1,2 +1,9 @@
 # carmera-pedestrians
-Collaboration with Carmera to provide a pedestrian density map using ground-level images. 
+Generation of a pedestrian density map using ground-level images.
+ 
+The code is divided into three parts: 
+ 1. pedestrian detection
+ 2. density map generation 
+ 3. simulation
+ 
+ This is a joint work with [NYU](https://vida.engineering.nyu.edu/), [Carmera](https://carmera.com) and [USP](https://www5.usp.br/#english). The full description of this work is under analysis in ACM Transactions on Spatial Algorithms and Systems. 
