@@ -1,0 +1,18 @@
+{
+	"crossingsmaxdist": 2147483647,
+	"sensorinterval": [1],
+	"sensortpr": [1.0],
+	"sensorexfp": [0.0],
+	"sensorrange": [1],
+	"sensorsnum": [5],
+	"sensorspeed": [1],
+	"map": "data/toy2.png",
+	"npeople": [5],
+	"nprocesses": 1,
+	"nrepeats": 1,
+	"nticks": 100,
+	"outputdir": "/tmp/del",
+	"overwrite": false,
+	"verbose": "debug",
+	"view": null
+}
