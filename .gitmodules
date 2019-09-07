@@ -2,3 +2,7 @@
 	path = detection/py-R-FCN
 	url = https://github.com/YuwenXiong/py-R-FCN.git
 	branch = master
+[submodule "density/osm-parser"]
+	path = density/osm-parser
+	url = git@github.com:tokudaek/osm-parser.git
+	branch = master
