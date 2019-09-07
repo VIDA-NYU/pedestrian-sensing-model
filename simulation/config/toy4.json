@@ -1,0 +1,16 @@
+{
+	"crossingsmaxdist": 40,
+	"fleetsensorinterval": [1],
+	"fleetsensorrange": [1],
+	"fleetsize": [1],
+	"fleetspeed": [1],
+	"map": "data/toy4.png",
+	"npeople": [1],
+	"nprocesses": 1,
+	"nrepeats": 1,
+	"nticks": 100000,
+	"outputdir": "/tmp/del",
+	"overwrite": true,
+	"verbose": "debug",
+	"view": "plot"
+}
