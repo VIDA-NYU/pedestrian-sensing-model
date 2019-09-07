@@ -1,0 +1,18 @@
+{
+	"crossingsmaxdist": 32768,
+	"sensorinterval": [1],
+	"sensortpr": [1.0],
+	"sensorexfp": [0.0],
+	"sensorrange": [2],
+	"sensorsnum": [10],
+	"sensorspeed": [2],
+	"map": "data/wsp.png",
+	"npeople": [1000],
+	"nrepeats": 1,
+	"nticks": 1000,
+	"outputdir": "/tmp/prof",
+	"nprocesses": 1,
+	"verbose": null,
+	"view": null,
+	"overwrite": true
+}
