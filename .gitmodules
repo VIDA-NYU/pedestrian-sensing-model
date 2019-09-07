@@ -1,0 +1,4 @@
+[submodule "detection/py-R-FCN"]
+	path = detection/py-R-FCN
+	url = https://github.com/YuwenXiong/py-R-FCN.git
+	branch = master
